@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi, im Rasmus aka Visceral3D<br>I'm a techer proffesionally and a content creator on the side!<br>You can find me on Youtube where i teach CAD and 3D modelleing software.<br>🌱 I’m currently learning Nextjs to further my Frontend coding skills.<br>💬 Ask me about anything 3D Art related, or how to center a div!<br>⚡ Fun fact, i recently became a father, explainging the lacking activity here on Github
+Hey, I'm Rasmus Bremholm but you might know me as Visceral3D. I'm a teacher by day and a content creator in my spare time.
+
+Over on YouTube, I share my knowledge of CAD and 3D modeling. Always keen on learning, I'm currently digging into Next.js to amp up my frontend development skills.
+
+If you want to chat about anything related to 3D art or need a hand centering a div, I'm your guy. And though I've recently started the awesome journey of fatherhood, I'm back in action on GitHub.
+
+You can check out what I'm up to at www.rasmusbremholm.com - it's still under construction but will soon showcase my portfolio.
+
+Looking forward to learning and sharing more with this amazing community!
 
 
 ## 🌐 Socials:
