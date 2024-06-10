@@ -1,13 +1,11 @@
 # 💫 About Me:
-Hey, I'm Rasmus Bremholm but you might know me as Visceral3D. I'm a teacher by day and a content creator in my spare time.
+Hello, I’m Rasmus Bremholm. I am currently head of education @Tetiko specializing in Frontend Development and 3D modeling, both in Blender and CAD software. I am currently expanding my expertise into frontend development with a focus on Next.js.
 
-Over on YouTube, I share my knowledge of CAD and 3D modeling. Always keen on learning, I'm currently digging into Next.js to amp up my frontend development skills.
+My professional interests lie at the intersection of 3D design and web technology, where I aim to develop intuitive and visually compelling interfaces. Through my YouTube channel, I offer tutorials that bridge these two domains, sharing practical skills and industry insights.
 
-If you want to chat about anything related to 3D art or need a hand centering a div, I'm your guy. And though I've recently started the awesome journey of fatherhood, I'm back in action on GitHub.
+For a glimpse into my latest projects and to view my developing portfolio, visit www.rasmusbremholm.com. Although still under construction, the site will soon reflect my growing body of work in web development.
 
-You can check out what I'm up to at www.rasmusbremholm.com - it's still under construction but will soon showcase my portfolio.
-
-Looking forward to learning and sharing more with this amazing community!
+If you’re keen on exploring innovative solutions at the nexus of design and technology, feel free to reach out. I’m eager to connect with like-minded professionals and contribute to exciting projects.
 
 
 ## 🌐 Socials:
