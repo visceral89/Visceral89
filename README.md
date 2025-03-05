@@ -5,7 +5,7 @@ My professional interests lie at the intersection of 3D design and web technolog
 
 For a glimpse into my latest projects and to view my developing portfolio, visit www.rasmusbremholm.com. Although still under construction, the site will soon reflect my growing body of work in web development.
 
-If you’re keen on exploring innovative solutions at the nexus of design and technology, feel free to reach out. I’m eager to connect with like-minded professionals and contribute to exciting projects.
+I’m excited to connect with like-minded professionals and contribute to exciting projects.
 
 
 ## 🌐 Socials:
